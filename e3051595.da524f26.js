@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[70],{131:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"career-change","name":"career change","count":3,"permalink":"/blog/tags/career-change"}')}}]);
