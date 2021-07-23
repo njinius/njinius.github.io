@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{105:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"wsgi","name":"wsgi","count":1,"permalink":"/blog/tags/wsgi"}')}}]);

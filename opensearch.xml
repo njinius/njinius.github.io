@@ -4,8 +4,8 @@
   <ShortName>NJinius</ShortName>
   <Description>Search NJinius</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://njinius.github.io/img/njinius_logos/njinlogo.png</Image>
-  <Url type="text/html" method="get" template="https://njinius.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://njinius.github.io/opensearch.xml" />
-  <moz:SearchForm>https://njinius.github.io</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://njinius.com/img/njinius_logos/njinlogo.png</Image>
+  <Url type="text/html" method="get" template="https://njinius.com/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://njinius.com/opensearch.xml" />
+  <moz:SearchForm>https://njinius.com</moz:SearchForm>
 </OpenSearchDescription>
